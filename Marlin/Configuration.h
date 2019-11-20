@@ -926,7 +926,7 @@
 #define NOZZLE_TO_PROBE_OFFSET { -52, -16, -2.75 }
 
 // Certain types of probes need to stay away from edges
-#define MIN_PROBE_EDGE 5
+#define MIN_PROBE_EDGE 8
 
 // X and Y axis travel speed (mm/m) between probes
 #define XY_PROBE_SPEED 10000
